@@ -1,0 +1,287 @@
+{
+    "playlists": [
+        {
+            "Active": false,
+            "Name": "Template",
+            "Tracks": [
+                {
+                    "Mode": 1,
+                    "Title": "",
+                    "Url": ""
+                }
+            ],
+            "YoutubeListId": "",
+            "IsEdit": false
+        },
+        {
+            "Active": true,
+            "Name": "Random",
+            "Tracks": [
+                {
+                    "Mode": 1,
+                    "Title": "random",
+                    "Url": "http://s.cympfh.cc/video?url=random"
+                }
+            ],
+            "YoutubeListId": "",
+            "IsEdit": false
+        },
+        {
+            "Active": true,
+            "Name": "ASMR",
+            "Tracks": [
+                {
+                    "Mode": 1,
+                    "Title": "【胎内回帰】逃げられないし逃がさないずっとナカにいていいんだよ【ヤンデレ♡ASMR】 ",
+                    "Url": "https://www.youtube.com/watch?v=DzExo5OkWmY"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "【ASMR】ごりごり♡めらめら♡きもちいい切断音♡チェーンソーで全てを切り裂くCutting sound,Lightsaber,Chain saws cut through everything. ",
+                    "Url": "https://www.youtube.com/watch?v=BoBVX_sOqlk"
+                }
+            ],
+            "YoutubeListId": "",
+            "IsEdit": false
+        },
+        {
+            "Active": true,
+            "Name": "真っ白大代",
+            "Tracks": [
+                {
+                    "Mode": 1,
+                    "Title": "【深夜歌枠】路　上　子　守　唄　ゲ　リ　ラ　イ　ブ ",
+                    "Url": "https://www.youtube.com/watch?v=KB7fjaGi5xI"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "【深夜歌枠】周りに誰もいないと歌いたくならない？ ",
+                    "Url": "https://www.youtube.com/watch?v=-XaGqQ4_k5s"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "【深夜歌枠】魂子先輩の自宅の前で歌います【大代真白/あおぎり高校】 ",
+                    "Url": "https://www.youtube.com/watch?v=aJYs45OW_zs"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "【深夜歌枠】 ",
+                    "Url": "https://www.youtube.com/watch?v=aG_-Ge-PHjY"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "【深夜歌枠】　　　　　　　　【大代真白/あおぎり高校】 ",
+                    "Url": "https://www.youtube.com/watch?v=5d_JPW7tntw"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "【塊魂】なるか、塊に。【大代真白/あおぎり高校】 ",
+                    "Url": "https://www.youtube.com/watch?v=wDlbSvnVEsE"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "初コラボでもごりごりにぶっこんでくる大代真白に笑いが止まらない月ノ美兎【にじさんじ/あおぎり高校/切り抜き】",
+                    "Url": "https://www.youtube.com/watch?v=mhCoNjgiacs"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "【#みとらじ】ゲストは大代真白【ここへ来てはいけない】 ",
+                    "Url": "https://www.youtube.com/watch?v=JkCVQFYfwGk"
+                }
+            ],
+            "YoutubeListId": "",
+            "IsEdit": false
+        },
+        {
+            "Active": true,
+            "Name": "月の兎",
+            "Tracks": [
+                {
+                    "Mode": 1,
+                    "Title": "【MV】人ってただの筒じゃないですか / 月ノ美兎",
+                    "Url": "https://www.youtube.com/watch?v=skOU8kDB0Xw"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "納豆が嫌い？わたくしの練り方なら美味しいはず…！！【納凸】",
+                    "Url": "https://www.youtube.com/watch?v=o19fBfOepaI"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "【前編】エジプト行ってきたんですよ！！！！！！！！！！",
+                    "Url": "https://www.youtube.com/watch?v=F_0cQOqLMeo"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "【後編】エジプト行ってきたんですよ！！！！！！！！！！！",
+                    "Url": "https://www.youtube.com/watch?v=63V5f2R1apE"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "好きなラーメンを食う 【一蘭】",
+                    "Url": "https://www.youtube.com/watch?v=p6xWbMg4B_0"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "【#帰れない百物語】100個怖い話するまで帰れない2020【月ノ美兎/にじさんじ】",
+                    "Url": "https://www.youtube.com/watch?v=9CqaQMSNQng"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "【Vlog】ラスベガスに行ってきました！！！美兎、変わっちまったな…",
+                    "Url": "https://www.youtube.com/watch?v=nQLYKTglqtc"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "【Vlog】アメリカの超絶ド都会！ニューヨークに行ってきました！！",
+                    "Url": "https://www.youtube.com/watch?v=fLYDM0EjL4E"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "【歌ってみた】ビビビビ / 月ノ美兎",
+                    "Url": "https://www.youtube.com/watch?v=7TbGYTzq3JI"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "清楚な委員長との親和性が高すぎる話題の神ゲーに突っ込みが止まらないリスナーたち【にじさんじ/切り抜き】",
+                    "Url": "https://www.youtube.com/watch?v=JhACpFmh91s"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "初コラボでもごりごりにぶっこんでくる大代真白に笑いが止まらない月ノ美兎【にじさんじ/あおぎり高校/切り抜き】",
+                    "Url": "https://www.youtube.com/watch?v=mhCoNjgiacs"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "【#降りられない百物語】100個怖い話するまで終わらない2025【月ノ美兎/にじさんじ】",
+                    "Url": "https://www.youtube.com/watch?v=XKr7JTMB48E"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "【 #インターネット女クリスマス 】3Dで歌ってはしゃぐインターネットの女たち【月ノ美兎/名取さな】",
+                    "Url": "https://www.youtube.com/watch?v=qVv6vCqciTM"
+                }
+            ],
+            "YoutubeListId": "",
+            "IsEdit": false
+        },
+        {
+            "Active": true,
+            "Name": "今夜はあなたと 2026",
+            "Tracks": [
+                {
+                    "Mode": 1,
+                    "Title": "スマトラ警備隊（相対性理論）ぽわぽわP　feat.初音ミク ",
+                    "Url": "https://www.youtube.com/watch?v=DOJE9wE64No"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "今夜、すべてのyoutubeliveで ",
+                    "Url": "https://www.youtube.com/watch?v=leoEtej6OXs"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "電気グルーヴ - N.O. (無能の人) (REMIX) ",
+                    "Url": "https://www.youtube.com/watch?v=9z3Rwog_bIc"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "【CB250R】×CGで作った女とツーリングやってやるぜ！！突然逃太郎のモトブログ ",
+                    "Url": "https://www.youtube.com/watch?v=2M7JtkDG3mQ"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "全日本ヤエー選手権大会・関東地区予選　突然逃太郎のモトブログ【XSR900】 ",
+                    "Url": "https://www.youtube.com/watch?v=OesQq_JiH-k"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "Clione feat. 轟はじめ (Live at PQ) ",
+                    "Url": "https://www.youtube.com/watch?v=-FoERJLPhtw"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "シンデレラ／相対性理論：可不 ",
+                    "Url": "https://www.youtube.com/watch?v=8iUG88qMeoo"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "Jinmenusagi - Telaporn(テラポーン) (remix) ",
+                    "Url": "https://www.youtube.com/watch?v=XJK9KBGOyF4"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "同人誌を買いに/ひがしやしき",
+                    "Url": "https://www.youtube.com/watch?v=Q0tDHr8BXeQ"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "VTuberのすべて / あおぎり高校(official)",
+                    "Url": "https://www.youtube.com/watch?v=3WKstAB_8-A"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "Vしんぼ",
+                    "Url": "https://www.youtube.com/watch?v=0gemdBTNctA"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "███って誰？",
+                    "Url": "https://www.youtube.com/watch?v=3RHGMf3H0Lw"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "Around The World / MONKEY MAJIK【月ノ美兎 (cover)】",
+                    "Url": "https://www.youtube.com/watch?v=PvCfdTJGVcw"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "何でも言うことを聞いてくれるアカネチャン",
+                    "Url": "https://www.youtube.com/watch?v=OVuYIMa5XBw"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "地獄でなぜ悪い Covered by 名取さな",
+                    "Url": "https://www.youtube.com/watch?v=PychMJMDtWU"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "[Rotaeno] Chantして!!!!! - 名取さな. &西郷・R・いろり (CV:名取さな) & USAGI Production 【Music】",
+                    "Url": "https://www.youtube.com/watch?v=1rvfGP-JeO4"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "ついにホドモエシティに辿り着き、念願のダンスを3Dで披露する初見(だけどBGMは知ってる)トレーナーさん【名取さな/切り抜き/ポケモンBW】",
+                    "Url": "https://www.youtube.com/watch?v=EWe8-0d15sI"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "・－・・ －－－ ・・・－ ・",
+                    "Url": "https://www.youtube.com/watch?v=Lt-EbHhHD5Q"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "Calm-Remix Nation - 02 Good Night, Sasami san",
+                    "Url": "https://www.youtube.com/watch?v=nO2q4vAHbdw"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "episode Solo × come again × Telaporn (DJ OWTN + HIMAGO mashup) - Koki \"OWTN\" OTANI",
+                    "Url": "https://www.youtube.com/watch?v=Nm0u-PsU32Q"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "シンデレラは魔法使い",
+                    "Url": "https://www.youtube.com/watch?v=8A3noNdf6IA"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "tofubeats - ディスコの神様 feat.藤井隆(LIVE) ",
+                    "Url": "https://www.youtube.com/watch?v=zV3myHkUJiE"
+                }
+            ],
+            "YoutubeListId": "",
+            "IsEdit": false
+        }
+    ]
+}
