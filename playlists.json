@@ -21,6 +21,11 @@
                     "Mode": 1,
                     "Title": "random",
                     "Url": "http://s.cympfh.cc/video?url=random"
+                },
+                {
+                    "Mode": 1,
+                    "Title": "random-live",
+                    "Url": "http://s.cympfh.cc/video?url=random-live"
                 }
             ],
             "YoutubeListId": "",
