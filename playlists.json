@@ -127,6 +127,11 @@
                     "Url": "https://www.youtube.com/watch?v=o19fBfOepaI"
                 },
                 {
+                    "Url": "https://www.youtube.com/watch?v=wYZ3PXHmxgQ",
+                    "Mode": 1,
+                    "Title": "自認月ノ美兎さんぽ【vlog】"
+                },
+                {
                     "Mode": 1,
                     "Title": "【MV】人ってただの筒じゃないですか / 月ノ美兎",
                     "Url": "https://www.youtube.com/watch?v=skOU8kDB0Xw"
@@ -221,8 +226,18 @@
             "Tracks": [
                 {
                     "Mode": 1,
+                    "Url": "https://www.youtube.com/watch?v=jSEKKRQ0NBs",
+                    "Title": "【今夜は水星ブギーバック】tofubeats × 水曜日のカンパネラ × スチャダラパー"
+                },
+                {
+                    "Mode": 1,
                     "Title": "スマトラ警備隊（相対性理論）ぽわぽわP　feat.初音ミク ",
                     "Url": "https://www.youtube.com/watch?v=DOJE9wE64No"
+                },
+                {
+                    "Url": "https://www.youtube.com/watch?v=cP4qjesWyjY",
+                    "Mode": 1,
+                    "Title": "おさけを飲んだらくすりが飲めないの唄 / 可不りむる"
                 },
                 {
                     "Mode": 1,
@@ -231,13 +246,13 @@
                 },
                 {
                     "Mode": 1,
-                    "Title": "電気グルーヴ - N.O. (無能の人) (REMIX) ",
-                    "Url": "https://www.youtube.com/watch?v=9z3Rwog_bIc"
+                    "Title": "同人誌を買いに/ひがしやしき",
+                    "Url": "https://www.youtube.com/watch?v=Q0tDHr8BXeQ"
                 },
                 {
                     "Mode": 1,
-                    "Title": "【CB250R】×CGで作った女とツーリングやってやるぜ！！突然逃太郎のモトブログ ",
-                    "Url": "https://www.youtube.com/watch?v=2M7JtkDG3mQ"
+                    "Title": "電気グルーヴ - N.O. (無能の人) (REMIX) ",
+                    "Url": "https://www.youtube.com/watch?v=9z3Rwog_bIc"
                 },
                 {
                     "Mode": 1,
@@ -255,14 +270,14 @@
                     "Url": "https://www.youtube.com/watch?v=8iUG88qMeoo"
                 },
                 {
+                    "Url": "https://www.youtube.com/watch?v=StktpHZq6sQ",
                     "Mode": 1,
-                    "Title": "Jinmenusagi - Telaporn(テラポーン) (remix) ",
-                    "Url": "https://www.youtube.com/watch?v=XJK9KBGOyF4"
+                    "Title": "Ichigo Mashimaro - Soine Kawaiine Tanzmuzik - 03 - かっとあっぷ [Strawberry Cut-up]"
                 },
                 {
                     "Mode": 1,
-                    "Title": "同人誌を買いに/ひがしやしき",
-                    "Url": "https://www.youtube.com/watch?v=Q0tDHr8BXeQ"
+                    "Title": "Jinmenusagi - Telaporn(テラポーン) (remix) ",
+                    "Url": "https://www.youtube.com/watch?v=XJK9KBGOyF4"
                 },
                 {
                     "Mode": 1,
@@ -301,11 +316,6 @@
                 },
                 {
                     "Mode": 1,
-                    "Title": "ついにホドモエシティに辿り着き、念願のダンスを3Dで披露する初見(だけどBGMは知ってる)トレーナーさん【名取さな/切り抜き/ポケモンBW】",
-                    "Url": "https://www.youtube.com/watch?v=EWe8-0d15sI"
-                },
-                {
-                    "Mode": 1,
                     "Title": "・－・・ －－－ ・・・－ ・",
                     "Url": "https://www.youtube.com/watch?v=Lt-EbHhHD5Q"
                 },
@@ -326,8 +336,61 @@
                 },
                 {
                     "Mode": 1,
-                    "Title": "tofubeats - ディスコの神様 feat.藤井隆(LIVE) ",
+                    "Title": "tofubeats - ディスコの神様 feat.藤井隆(LIVE)",
                     "Url": "https://www.youtube.com/watch?v=zV3myHkUJiE"
+                }
+            ],
+            "YoutubeListId": "",
+            "IsEdit": false
+        },
+        {
+            "Active": true,
+            "Name": "豆ふ",
+            "Tracks": [
+                {
+                    "Url": "https://www.youtube.com/watch?v=x_9B_lFXEeU",
+                    "Mode": 1,
+                    "Title": "【MV】Strong Water -屈強の水-"
+                },
+                {
+                    "Url": "https://www.youtube.com/watch?v=9VhrJCbr58A",
+                    "Mode": 1,
+                    "Title": "ピーナッツくん 『 グミ超うめぇ 』Official Music Video / Album \"False Memory Syndrome\""
+                },
+                {
+                    "Url": "https://www.youtube.com/watch?v=3inTrtLFVa8",
+                    "Mode": 1,
+                    "Title": "ピーナッツくんのおまじない (feat. チャンチョ & オレンジ博士)"
+                },
+                {
+                    "Url": "https://www.youtube.com/watch?v=QRPu40PZyLE",
+                    "Mode": 1,
+                    "Title": "Expecto patronum!"
+                },
+                {
+                    "Url": "https://www.youtube.com/watch?v=c9fKxpPSm6Q",
+                    "Mode": 1,
+                    "Title": "ペパーミントラブ (feat. 名取さな)"
+                },
+                {
+                    "Url": "https://www.youtube.com/watch?v=rGkM93Q8oFU",
+                    "Mode": 1,
+                    "Title": "Stop Motion feat. 魔界ノりりむ / ピーナッツくん【#にじさんじ8周年】"
+                },
+                {
+                    "Url": "https://www.youtube.com/watch?v=NeP68Fej9wg",
+                    "Title": "ピーナッツくん - チャンチョ鳴らせ808 (Live at POP YOURS 2026)",
+                    "Mode": 1
+                },
+                {
+                    "Url": "https://www.youtube.com/watch?v=ehjeUKgF_Io",
+                    "Mode": 1,
+                    "Title": "幽体離脱 feat.チャンチョ & ぽんぽこ (Official Lyric Video) / Album \"False Memory Syndrome\""
+                },
+                {
+                    "Url": "https://www.youtube.com/watch?v=yS6JJNbM-UY",
+                    "Mode": 1,
+                    "Title": "Bokeh / ぽんぽこ 【MV】"
                 }
             ],
             "YoutubeListId": "",

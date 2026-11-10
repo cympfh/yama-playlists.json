@@ -62,6 +62,9 @@ def main(input: str, output: str) -> None:
     filled = 0
     for playlist in data.get("playlists", []):
         for track in playlist.get("Tracks", []):
+            mode = track.get("Mode", 1)
+            track["Mode"] = mode
+
             url = track.get("Url", "")
             new_url = normalize_url(url)
             track["Url"] = new_url
